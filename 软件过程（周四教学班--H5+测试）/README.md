@@ -18,4 +18,3 @@
 | 随便| 王佳琦（组长）	黄媛媛	王娟	齐琦	侯存巧|https://github.com/8wangjiaqi/Whatever|
 | groups| 李敬单（组长）	宋莹然	李建辉	康润芳	王洁	候苏洪|https://github.com/lijingdan2016/groups|
 | group| 杨茜（组长）	郭艳霞	杨影	孙晓雪	候苏洪|https://github.com/yangxi1998/software4|
-| 只是名字| 丁路	张家旺	齐放	王鑫钰	刘振扬|https://github.com/thisisname1/DING|
