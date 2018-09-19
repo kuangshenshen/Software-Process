@@ -16,4 +16,5 @@
 | ToBeBetter| 季新婵（组长）	王颖	田圆方	徐瑞婷|https://github.com/jixinchan/ToBeBetter|
 | 勇士队| 董旭腾（组长）	崔一鸣	张天护	张飞宇	高歌远|https://github.com/dongxuteng/software|
 | 随便| 王佳琦（组长）	黄媛媛	王娟	齐琦	侯存巧|https://github.com/8wangjiaqi/Whatever|
-| groups| 李敬单	宋莹然	李建辉	康润芳	王洁	候苏洪|https://github.com/lijingdan2016/groups|
+| groups| 李敬单（组长）	宋莹然	李建辉	康润芳	王洁	候苏洪|https://github.com/lijingdan2016/groups|
+| group| 杨茜（组长）	郭艳霞	杨影	孙晓雪	候苏洪|https://github.com/yangxi1998/software4|
