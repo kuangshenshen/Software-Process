@@ -9,3 +9,10 @@
 | 焰之队| 刘子雪（组长）	李叶	尹雨佳	李润川|https://github.com/fireteam233|
 | OLGB| 魏佳（组长）	陈培莹	沈梦琪	姚静	王秀莲|https://github.com/weijia0208/software-process|
 | jpg| 纪朝萍（组长）	潘凯亚	郭诗博|https://github.com/JIZHAOPING/Software-engineering|
+| 彩笔队| 付子旺（组长）	王岑	杜雪	范丽梅	管欣悦	顾苏彤|https://github.com/fuziwang/software|
+| 一叶知秋| 王清顺（组长）	郭佳昊	陈自力	朱泓宇	张程程	闫博文|https://github.com/wangqingshun/software-engineering|
+| 未知| 李文轩（组长）	冯世祺	马硕	于洋	刘冉|https://github.com/Aluaead/Software-Engineering|
+| xiaoxiaozu| 朱子安（组长）	王子龙	马瑞华	白新正	郑栋文	邝绅绅|https://github.com/zhuzian/software-process-xiaoxiaozu|
+| ToBeBetter| 季新婵	王颖	田圆方	徐瑞婷|https://github.com/jixinchan/ToBeBetter|
+| 勇士队| 董旭腾	崔一鸣	张天护	张飞宇	高歌远|https://github.com/dongxuteng/software|
+| 随便| 王佳琦	黄媛媛	王娟	齐琦	侯存巧|https://github.com/8wangjiaqi/Whatever|
