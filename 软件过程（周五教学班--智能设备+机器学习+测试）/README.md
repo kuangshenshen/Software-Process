@@ -10,4 +10,5 @@
 |爱笑工作室	|梁启文（组长）、李俊霞、郝帅虎、刘恒韧	|https://github.com/Liangqiwen123/UnitedGroup|
 |HelloWorld	|张海波（组长）、杨旭辉、尚一飞、刘亚峰、杨少杰、黄亚鑫	|https://github.com/zhanghaibo25/software-engineering|
 |Tip	|孙艺凡（组长）、左子健、康祁鑫、刘鹏飞、赵建伟、苏浩然	|https://github.com/syfan7561/Software-Engineering|
-|524团队	|赵云峰（组长）、杨时雨、李奥博、孟乐乐、刘浩、师玮华	|https://github.com/zhaoyunfeng123/software_process|
+|524团队 |赵云峰（组长）、杨时雨、李奥博、孟乐乐、刘浩、师玮华	|https://github.com/zhaoyunfeng123/software_process|
+|SE-Team |段晓月（组长），陈梦萱，王东慧，李亚冰，贾欣蕊，赵洋	|https://github.com/duanxiaoyue/SE-Team|
