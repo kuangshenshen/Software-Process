@@ -13,4 +13,4 @@
 |524团队 |赵云峰（组长）、杨时雨、李奥博、孟乐乐、刘浩、师玮华	|https://github.com/zhaoyunfeng123/software_process|
 |SE-Team |段晓月（组长），陈梦萱，王东慧，李亚冰，贾欣蕊，赵洋	|https://github.com/duanxiaoyue/SE-Team|
 |白与黑 |张敏瑞（组长），李英杰，生春月，张茜贤，赵璐，李伟娟	|https://github.com/zhangminrui/software_repository|
-|UPUP |史素佳（组长），岳哲伟  杨天莹  刘江	||
+|UPUP |史素佳（组长），岳哲伟  杨天莹  刘江	|https://github.com/lovejiajia1997/UPUPUP|
