@@ -12,3 +12,4 @@
 |Tip	|孙艺凡（组长）、左子健、康祁鑫、刘鹏飞、赵建伟、苏浩然	|https://github.com/syfan7561/Software-Engineering|
 |524团队 |赵云峰（组长）、杨时雨、李奥博、孟乐乐、刘浩、师玮华	|https://github.com/zhaoyunfeng123/software_process|
 |SE-Team |段晓月（组长），陈梦萱，王东慧，李亚冰，贾欣蕊，赵洋	|https://github.com/duanxiaoyue/SE-Team|
+|白与黑 |张敏瑞（组长），李英杰，生春月，张茜贤，赵璐，李伟娟	|https://github.com/zhangminrui/software_repository|
