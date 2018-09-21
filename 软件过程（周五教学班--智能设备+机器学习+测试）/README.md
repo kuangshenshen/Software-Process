@@ -14,3 +14,4 @@
 |SE-Team |段晓月（组长），陈梦萱，王东慧，李亚冰，贾欣蕊，赵洋	|https://github.com/duanxiaoyue/SE-Team|
 |白与黑 |张敏瑞（组长），李英杰，生春月，张茜贤，赵璐，李伟娟	|https://github.com/zhangminrui/software_repository|
 |UPUP |史素佳（组长），岳哲伟  杨天莹  刘江	|https://github.com/lovejiajia1997/UPUPUP|
+|火箭队 |宋晓娇（组长） 刘海迪 于俊伟 王浩馨  秦一诺  刘宸	|https://github.com/Moronjiao/huojiandui|
