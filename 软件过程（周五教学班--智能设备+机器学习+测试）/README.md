@@ -2,7 +2,7 @@
 |:---:|:---:|:---:|
 | NoProblem|	张强（组长）	熊毅	刘海新	张振东	肖敬斐	|https://github.com/zhangqiang216/softwareengineering-NOPROBLEM|
 | 乘风破浪|	顾凯峰（组长）	刘雪晴	王浩权	|https://github.com/dalaome/SE|
-| lwyz|	杨凯静（组长）	左林嶷	连鸿霄	王宇婕	|https://github.com/qingzhenglive/lwyz|
+| lwyz|	杨凯静（组长）	左林嶷	连鸿霄	王禹婕	|https://github.com/qingzhenglive/lwyz|
 | 只是名字|	丁路（组长）	张家旺	齐放	王鑫钰	刘振扬	|https://github.com/thisisname1/DING|
 |彩虹小马|范艺琳（组长） 付饶 安琪 孟雪冰 郑宁宁 杨斯媛	|https://github.com/fanyilin0128/SoftwareProcess|
 |stable	|刘梦琪（组长） 牛薇薇 孟菲菲 孙立莹 李春柳	|https://github.com/liumengqi1/software_process_homework|
