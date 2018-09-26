@@ -7,7 +7,7 @@
 |彩虹小马|范艺琳（组长） 付饶 安琪 孟雪冰 郑宁宁 杨斯媛	|https://github.com/fanyilin0128/SoftwareProcess|
 |stable	|刘梦琪（组长） 牛薇薇 孟菲菲 孙立莹 李春柳	|https://github.com/liumengqi1/soft-process|
 |TicTok	|穆晓炜（组长） 吴慧霞 付举鹏 吴旭东 王鲁玉 陈若繁 廉千慧	|https://github.com/Hsiau-wei/software-process|
-|爱笑工作室	|梁启文（组长） 李俊霞 郝帅虎 刘恒韧	|https://github.com/Liangqiwen123/UnitedGroup|
+|爱笑工作室	|梁启文（组长） 李俊霞 郝帅虎 刘恒韧 苏文政	|https://github.com/Liangqiwen123/UnitedGroup|
 |HelloWorld	|张海波（组长） 杨旭辉 尚一飞 刘亚峰 杨少杰 黄亚鑫	|https://github.com/zhanghaibo25/software-engineering|
 |Tip	|孙艺凡（组长） 左子健 康祁鑫 刘鹏飞 赵建伟 苏浩然	|https://github.com/syfan7561/Software-Engineering|
 |524团队 |赵云峰（组长） 杨时雨 李奥博 孟乐乐 刘浩 师玮华	|https://github.com/zhaoyunfeng123/software_process|
