@@ -12,7 +12,7 @@
 |10|Tip	|孙艺凡（组长） 左子健 康祁鑫 刘鹏飞 赵建伟 苏浩然	|https://github.com/syfan7561/Software-Engineering|
 |11|524团队 |赵云峰（组长） 杨时雨 李奥博 孟乐乐 刘浩 师玮华	|https://github.com/zhaoyunfeng123/software_process|
 |12|SE-Team |段晓月（组长） 陈梦萱 王东慧 李亚冰 贾欣蕊 赵洋	|https://github.com/duanxiaoyue/SE-Team|
-|13|白与黑 |张敏瑞（组长） 李英杰 生春月 张茜贤 赵璐 李伟娟	|https://github.com/icesugarE/write-and-black|
+|13|白与黑 |张敏瑞（组长） 李英杰 生春月 张茜贤 赵璐 李伟娟	|https://github.com/zhangminrui/white-and-black|
 |14|UPUP |史素佳（组长） 岳哲伟  杨天莹  刘江	|https://github.com/lovejiajia1997/UPUPUP|
 |15|火箭队 |宋晓娇（组长） 刘海迪 于俊伟 王浩馨  秦一诺  刘宸	|https://github.com/Moronjiao/huojiandui|
 |16|目不转睛 |‌刘琪（组长） 尹璐 黄瑾然 程子健 王得润 韦士杰	|https://github.com/gaya0214/software-process|
