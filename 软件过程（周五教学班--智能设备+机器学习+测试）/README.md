@@ -19,11 +19,5 @@
 |17|Top1 |‌‌‌李铭飞（组长）  王鹏赫 郑宏勇 孙东墨 刘宇豪	|https://github.com/li-ming-fei/course-software|
 |18|FLZ |‌‌‌冯嘉星（组长） 李欣然 冯敏 甄攀星 张玉	|https://github.com/fengjiaxing666/software-process|
 
-<html>
-  <body>
-    <div>
-        <iframe src="https://free.modao.cc/app/wjOvcHc5n8HnqjXsocvLUkksaV0c8IR/embed" width="515" height="968">
-		</iframe>
-      </div>
-   </body>
-</html>
+https://free.modao.cc/app/wjOvcHc5n8HnqjXsocvLUkksaV0c8IR/embed
+[原型展示链接](https://free.modao.cc/app/wjOvcHc5n8HnqjXsocvLUkksaV0c8IR/embed)
