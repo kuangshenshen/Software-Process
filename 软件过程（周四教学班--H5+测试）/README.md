@@ -1,6 +1,6 @@
 | 组号 | 组名 | 组员 | 仓库地址 | 项目 | 
 |:---:|:---:|:---:|:---:|:---:|
-|1| Made-in-China-panda| 张家程（组长）	黄鹏	刘英杰	赵芊伊	陈琛|https://github.com/Made-in-China-panda/Software-Process |
+|  1  | Made-in-China-panda| 张家程（组长）	黄鹏	刘英杰	赵芊伊	陈琛|https://github.com/Made-in-China-panda/Software-Process |
 |2| 飞天小女警 | 张馨予（组长）	杨美静	吴晨雨	刘月	牛文潇|https://github.com/zhangxinyu5663/software-process |
 |3| fantastic coders | 白凯发（组长）	李元彪	高晓刚	王雪宾	杨世佳|https://github.com/fafabigdream/fantastic-coders |
 |4| SWP | 李其林（组长）	张胜然	卜冬晓	张宁	迟国强 孔祥宇| https://github.com/liqilin1996/ruanjiangongcheng|
