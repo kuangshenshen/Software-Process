@@ -1,5 +1,5 @@
-| 组号 | 组名 | 组员 | 仓库地址 | 
-|:---:|:---:|:---:|:---:|
+| 组号 | 组名 | 组员 | 仓库地址 | 项目 | 
+|:---:|:---:|:---:|:---:|:---:|
 |1| NoProblem|	张强（组长）	熊毅	刘海新	张振东	肖敬斐	|https://github.com/zhangqiang216/softwareengineering-NOPROBLEM|
 |2| 乘风破浪|	刘雪晴（组长）	顾凯峰	王浩权	于洋|https://github.com/liuxueqing1023/soft|
 |3| lwyz|	杨凯静（组长）	左林嶷	连鸿霄	王禹婕	|https://github.com/qingzhenglive/lwyz|
