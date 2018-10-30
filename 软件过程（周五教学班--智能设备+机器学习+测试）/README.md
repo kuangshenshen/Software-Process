@@ -14,7 +14,7 @@
 |12|SE-Team |段晓月（组长） 陈梦萱 王东慧 李亚冰 贾欣蕊 赵洋	|https://github.com/duanxiaoyue/SE-Team|
 |13|白与黑 |张敏瑞（组长） 李英杰 生春月 张茜贤 赵璐 李伟娟	|https://github.com/zhangminrui/white-and-black| 吃货路线 |
 |14|UPUP |史素佳（组长） 岳哲伟  杨天莹  刘江	|https://github.com/lovejiajia1997/UPUPUP|
-|15|火箭队 |宋晓娇（组长） 刘海迪 于俊伟 王浩馨  秦一诺  刘宸	|https://github.com/Moronjiao/huojiandui|
+|15|火箭队 |宋晓娇（组长） 刘海迪 于俊伟 王浩馨  秦一诺  刘宸	|https://github.com/Moronjiao/huojiandui|爱看小说城|
 |16|目不转睛 |‌刘琪（组长） 尹璐 黄瑾然 程子健 王得润 韦士杰	|https://github.com/gaya0214/software-process|
 |17|Top1 |‌‌‌李铭飞（组长）  王鹏赫 郑宏勇 孙东墨 刘宇豪	|https://github.com/li-ming-fei/course-software|
 |18|FLZ |‌‌‌冯嘉星（组长） 李欣然 冯敏 甄攀星 张玉	|https://github.com/fengjiaxing666/software-process|
