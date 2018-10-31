@@ -5,7 +5,7 @@
 |3| fantastic coders | 白凯发（组长）	李元彪	高晓刚	王雪宾	杨世佳|https://github.com/fafabigdream/fantastic-coders |
 |4| SWP | 李其林（组长）	张胜然	卜冬晓	张宁	迟国强 孔祥宇| https://github.com/liqilin1996/ruanjiangongcheng|WKTutor|
 |5| 你说的都队 | 王丽媛（组长）	孟乐鑫	张韬毅	吴三荣	李伊瑒|https://github.com/wangliyuan521/You-Say-all-team |你农我侬|
-|6| 地表最强 | 邹香月（组长）	李悦	武滨	郝芸婷	李欣芸|https://github.com/zouxiangyue/software-engineer-team |
+|6| 地表最强 | 邹香月（组长）	李悦	武滨	郝芸婷	李欣芸|https://github.com/zouxiangyue/software-engineer-team |每妆|
 |7| 随便起名字| 张腾（组长）	李晓帆	冯滨	徐世伟	高铱镁|https://github.com/software-demos/software-demo2018 |
 |8| 焰之队| 刘子雪（组长）	李叶	尹雨佳	李润川|https://github.com/liuzixue1998/fireteam|西遇|
 |9| OLGB| 魏佳（组长）	陈培莹	沈梦琪	姚静 王秀莲 卢丹琦|https://github.com/weijia0208/software-process|
