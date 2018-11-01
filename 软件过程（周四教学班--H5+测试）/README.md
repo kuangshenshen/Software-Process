@@ -8,7 +8,7 @@
 |6| 地表最强 | 邹香月（组长）	李悦	武滨	郝芸婷	李欣芸|https://github.com/zouxiangyue/software-engineer-team |每妆|
 |7| 随便起名字| 张腾（组长）	李晓帆	冯滨	徐世伟	高铱镁|https://github.com/software-demos/software-demo2018 |
 |8| 焰之队| 刘子雪（组长）	李叶	尹雨佳	李润川|https://github.com/liuzixue1998/fireteam|西遇|
-|9| OLGB| 魏佳（组长）	陈培莹	沈梦琪	姚静 王秀莲 卢丹琦|https://github.com/weijia0208/software-process|
+|9| OLGB| 魏佳（组长）	陈培莹	沈梦琪	姚静 王秀莲 卢丹琦|https://github.com/weijia0208/software-process|蚂蚁寻物|
 |10| jpg| 纪朝萍（组长）	潘凯亚	郭诗博|https://github.com/JIZHAOPING/Software-engineer|
 |11| 彩笔队| 付子旺（组长）	王岑	杜雪	范丽梅	管欣悦	顾苏彤|https://github.com/fuziwang/software|HomeTime|
 |12| 一叶知秋| 王清顺（组长）	郭佳昊	陈自力	朱泓宇	张程程	闫博文|https://github.com/wangqingshun/software-engineering|
