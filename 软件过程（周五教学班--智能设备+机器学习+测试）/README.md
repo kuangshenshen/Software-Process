@@ -10,7 +10,7 @@
 |8|爱笑工作室|梁启文（组长） 李俊霞 郝帅虎 刘恒韧 苏文政|https://github.com/Liangqiwen123/UnitedGroup|
 |9|HelloWorld|张海波（组长） 杨旭辉 尚一飞 刘亚峰 杨少杰 黄亚鑫|https://github.com/zhanghaibo25/software-engineering|
 |10|Tip	|孙艺凡（组长） 左子健 康祁鑫 刘鹏飞 赵建伟 苏浩然|https://github.com/syfan7561/Software-Engineering|
-|11|524团队|赵云峰（组长） 杨时雨 李奥博 孟乐乐 刘浩 师玮华|https://github.com/zhaoyunfeng123/software_process|
+|11|524团队|赵云峰（组长） 杨时雨 李奥博 孟乐乐 刘浩 师玮华|https://github.com/zhaoyunfeng123/software_process|畅轻书屋|
 |12|SE-Team|段晓月（组长） 陈梦萱 王东慧 李亚冰 贾欣蕊 赵洋|https://github.com/duanxiaoyue/SE-Team|
 |13|白与黑|张敏瑞（组长） 李英杰 生春月 张茜贤 赵璐 李伟娟	|https://github.com/zhangminrui/white-and-black|  吃货路线  |
 |14|UPUP|史素佳（组长） 岳哲伟  杨天莹  刘江|https://github.com/lovejiajia1997/UPUPUP|
