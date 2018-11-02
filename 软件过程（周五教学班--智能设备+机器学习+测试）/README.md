@@ -5,7 +5,7 @@
 |3|lwyz|杨凯静（组长）	左林嶷	连鸿霄	王禹婕|https://github.com/qingzhenglive/lwyz|达岸|
 |4|只是名字|丁路（组长）	张家旺	齐放	王鑫钰	刘振扬 韦宇杰|https://github.com/dinglu1/thisname|  玩转食堂  |
 |5|彩虹小马|范艺琳（组长） 付饶 安琪 孟雪冰 郑宁宁 杨斯媛|https://github.com/fanyilin0128/SoftwareProcess|爱宠大机密|
-|6|stable|刘梦琪（组长） 牛薇薇 孟菲菲 孙立莹 李春柳|https://github.com/liumengqi1/soft-process|
+|6|stable|刘梦琪（组长） 牛薇薇 孟菲菲 孙立莹 李春柳|https://github.com/liumengqi1/soft-process|Palm Library|
 |7|TicTok|穆晓炜（组长） 吴慧霞 付举鹏 吴旭东 王鲁玉 陈若繁 廉千慧|https://github.com/Hsiau-wei/software-process|
 |8|爱笑工作室|梁启文（组长） 李俊霞 郝帅虎 刘恒韧 苏文政|https://github.com/Liangqiwen123/UnitedGroup|
 |9|HelloWorld|张海波（组长） 杨旭辉 尚一飞 刘亚峰 杨少杰 黄亚鑫|https://github.com/zhanghaibo25/software-engineering|
