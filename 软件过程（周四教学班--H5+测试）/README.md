@@ -15,7 +15,7 @@
 |13| The one | 李文轩（组长）	冯世祺	马硕	刘冉|https://github.com/Aluaead/Software-Engineering|
 |14| xiaoxiaozu| 朱子安（组长）	王子龙	马瑞华	白新正	郑栋文	邝绅绅|https://github.com/zhuzian/software-process-xiaoxiaozu|
 |15| ToBeBetter| 季新婵（组长）	王颖	田圆方	徐瑞婷|https://github.com/jixinchan/ToBeBetter|养生本生|
-|16| 勇士队| 董旭腾（组长）	崔一鸣	张天护	张飞宇	高歌远|https://github.com/dongxuteng/software|
+|16| 勇士队| 董旭腾（组长）	崔一鸣	张天护	张飞宇	高歌远|https://github.com/dongxuteng/software|简语|
 |17| 随便| 王佳琦（组长）	黄媛媛	王娟	齐琦	侯存巧|https://github.com/8wangjiaqi/Whatever|蜗牛旅行|
 |18| groups| 李敬单（组长）	宋莹然	李建辉	康润芳	王洁	候苏洪|https://github.com/lijingdan2016/groups|爱宠点滴|
 |19| work together| 杨茜（组长）	郭艳霞	杨影	孙晓雪 |https://github.com/yangxi1998/software4|师大易联|
